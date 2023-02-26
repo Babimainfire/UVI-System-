@@ -1,0 +1,4 @@
+invoiceID,CarID,ClientID,title,InvoiceDate,salePrice,discount,clientName
+1,1,1,VW Golf mk5 1.6 FSI 2007,20230426,1094,90,Angel
+2,2,2,Volkswagon Golf 1.6 TDI 2011 Manual Diesel 167k miles ,20230226,2248,100,Audie
+3,10,3,VOLKSWAGEN GOLF 1.9 SE TDI DPF Estate Diesel Black,20230326,1700,100,Tycus
